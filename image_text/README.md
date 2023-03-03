@@ -1,12 +1,12 @@
 # How to use the Image and Text sections for webpages
 
-For all designs you will need to do the following:
+### For all designs you will need to do the following:
 
-### Replace the [IMAGE_URL_HERE] part of the img src.
+- Replace the [IMAGE_URL_HERE] part of the img src.
 
-### Add your own title in between the `<h2>`
+- Add your own title in between the `<h2>`
 
-### Add you own content between the `<p>`
+- Add you own content between the `<p>`
 
 ## Add the CSS
 
