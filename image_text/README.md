@@ -76,6 +76,6 @@ Add the following code to acheieve the above design.
             distinctio corporis voluptate reiciendis fugit maxime quasi, sequi autem quas sapiente voluptatem repellat
             odio quidem excepturi voluptates iste magnam cumque explicabo ea minus ab.</p>
         </div>
-    <img src="https://youraccount.109.ekm.net/ekmps/shops/peter109/resources/Design/marina-ymq0-nmwcv0-unsplash.jpg" alt="">
+    <img src="[IMAGE_URL_HERE]" alt="">
 </section>
 ```
