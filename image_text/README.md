@@ -15,8 +15,6 @@
         display: grid;
         grid-template-columns: 1fr;
     }
-
-
     .text-with-image img{
         width: 100%;
     }
@@ -33,9 +31,11 @@
 ```
 
 
+
+
 ```
 <section class="text-with-image container">
-    <img src="https://youraccount.109.ekm.net/ekmps/shops/peter109/resources/Design/marina-ymq0-nmwcv0-unsplash.jpg"
+    <img src="[IMAGE_URL_HERE]"
         alt="">
     <div class="text-with-image__content">
         <h2>TITLE HERE</h2>
