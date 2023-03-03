@@ -1,4 +1,37 @@
-# Title
+# How to use the Image and Text sections for webpages
+
+## Add the CSS
+
+```
+<style>
+    .container {
+        width: 100%;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 20px;
+        box-sizing: border-box;
+    }
+    .text-with-image{
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+
+    .text-with-image img{
+        width: 100%;
+    }
+@media only screen and (min-width: 700px){
+    .text-with-image{
+        grid-template-columns: minmax(350px, 1fr) 2fr;
+        gap: 20px;
+    }
+    .text-with-image__reverse{
+        grid-template-columns: 2fr minmax(350px, 1fr) ;
+    }
+}
+</style>
+```
+
 
 ```
 <section class="text-with-image container">
