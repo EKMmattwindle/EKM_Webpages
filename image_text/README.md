@@ -8,6 +8,8 @@
 
 - Add you own content between the `<p>`
 
+** All code goes in the Source tab on the edit webpage modal.**
+
 ## Add the CSS
 
 ```
@@ -79,3 +81,7 @@ Add the following code to acheieve the above design.
     <img src="[IMAGE_URL_HERE]" alt="">
 </section>
 ```
+
+# Example webpage on EKM
+
+![webpage example](https://raw.githubusercontent.com/EKMmattwindle/EKM_Webpages/main/image_text/webpage.png)
