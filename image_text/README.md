@@ -2,7 +2,7 @@
 
 ### For all designs you will need to do the following:
 
-- Replace the [IMAGE_URL_HERE] part of the img src.
+- Replace the `[IMAGE_URL_HERE]` part of the img src.
 
 - Add your own title in between the `<h2>`
 
